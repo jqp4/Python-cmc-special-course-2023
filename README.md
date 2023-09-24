@@ -1,1 +1,4 @@
-# Python-cmc-special-course-2023
+# Спецкурс
+
+* Сайт курса -- <http://uneex.org/LecturesCMC/PythonIntro2023>
+* Лекция 2 -- <http://uneex.org/LecturesCMC/PythonIntro2023/02_Conditionals>
