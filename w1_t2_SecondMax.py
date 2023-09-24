@@ -8,21 +8,21 @@
 
 number = int(input())
 
-first_max = None
-second_max = None
+first_max = number
+second_max = number
+
+number = int(input())
 
 while number != 0:
-    if first_max == None:
-        first_max = number
-    elif number > first_max:
+    if number > first_max:
         second_max = first_max
         first_max = number
-    elif first_max > number and (second_max == None or number > second_max):
+    elif first_max > number and number > second_max:
         second_max = number
 
     number = int(input())
 
-if first_max != None and second_max != None and first_max > second_max:
+if first_max > second_max:
     print(second_max)
 else:
     print("NO")
