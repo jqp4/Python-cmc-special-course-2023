@@ -1,4 +1,3 @@
-# ejudge: https://ejudge.cs.msu.ru/client?SID=0b72bb6a838388b3&action=139&prob_id=10
 # task: http://uneex.org/LecturesCMC/PythonIntro2023/Homework_ShefferStroke
 
 # Написать функцию sheff(A, B), реализующую логическую операцию Штрих Шеффера A ↑ B по следующему принципу:

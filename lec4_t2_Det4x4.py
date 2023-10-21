@@ -1,4 +1,3 @@
-# ejudge: https://ejudge.cs.msu.ru/client?SID=0b72bb6a838388b3&action=139&prob_id=11
 # task: http://uneex.org/LecturesCMC/PythonIntro2023/Homework_Det4x4
 
 # Матрица 4×4 задаётся кортежем из 4 кортежей по 4 целых числа в каждом. Написать функцию 

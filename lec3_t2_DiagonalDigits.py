@@ -1,4 +1,3 @@
-# ejudge: https://ejudge.cs.msu.ru/new-client?SID=9ecef12f1bb88dbe&action=139&prob_id=7
 # task: http://uneex.org/LecturesCMC/PythonIntro2023/Homework_DiagonalDigits
 
 # Цифры по диагонали

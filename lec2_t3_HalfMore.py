@@ -1,4 +1,3 @@
-# ejudge: https://ejudge.cs.msu.ru/new-client?SID=208df897cc3594c3&action=139&prob_id=4
 # task: http://uneex.org/LecturesCMC/PythonIntro2023/Homework_HalfMore
 
 
